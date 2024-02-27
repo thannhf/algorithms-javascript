@@ -1,4 +1,4 @@
-##### ALGORITHMS: #####
-# Sleep sort
-# Genetic Algorithms
-# Algorithms ACO
+# ALGORITHMS:  
+##### Sleep sort #####
+##### Genetic Algorithms #####
+##### Algorithms ACO #####
